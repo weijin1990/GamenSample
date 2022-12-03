@@ -1,0 +1,27 @@
+# common file exclude
+public/robots.txt
+public/index.html
+dist
+othersrc
+src/api
+src/assets/css/vars.scss
+src/assets/css/remodal.scss
+src/assets/css/remodal-default-theme.scss
+src/assets/css/common.scss
+src/assets/fonts
+src/assets/js
+src/components/atoms
+src/components/organisms
+src/components/molecules
+src/components/templates
+src/plugins
+src/router
+src/store
+src/App.vue
+src/main.js
+.browserslistrc
+.env.*
+.eslintrc.json
+babel.config.js
+package.json
+postcss.config.js
